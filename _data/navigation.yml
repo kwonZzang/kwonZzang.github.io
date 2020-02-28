@@ -8,6 +8,8 @@ main:
     url: /categories/
   - title: "Other"
     url: /categories/other/
+  - title: "Diary""
+    url: /categories/diary/
   - title: "About"
     url: /about/
 
