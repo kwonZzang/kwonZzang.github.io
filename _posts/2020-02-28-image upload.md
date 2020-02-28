@@ -1,5 +1,5 @@
 ---
-title:  "Github 블로그 세팅 & 이미지"
+title:  "Github 블로그 이미지 올리기 (완전 편함)"
 #excerpt: "finished"
 
 categories:
