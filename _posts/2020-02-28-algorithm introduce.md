@@ -3,7 +3,7 @@ title:  "알고리즘 공부 소개"
 excerpt: "알고리즘 시작"
 
 categories:
-  - 알고리즘
+  - algorithm
 tags:
   - altorithm
   - study
