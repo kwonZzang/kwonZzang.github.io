@@ -108,7 +108,7 @@ analytics:
 # Site Author
 author:
   name             : "kwonzzang"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/kwonzzang.jpg"
   bio              : "Just get **started**!"
   location         : "South Korea"
   email            : "sujeong6213@naver.com"
