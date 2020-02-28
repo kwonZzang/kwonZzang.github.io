@@ -8,7 +8,7 @@ main:
     url: /categories/
   - title: "Other"
     url: /categories/other/
-  - title: "Diary""
+  - title: "Diary"
     url: /categories/diary/
   - title: "About"
     url: /about/
