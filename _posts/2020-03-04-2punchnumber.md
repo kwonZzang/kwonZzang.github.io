@@ -43,7 +43,8 @@ last_modified_at: 2020-03-04T21:30:00-00:00
 ▶ 즉, N자리의 수의 이친수의 개수는 N-1자리의 이친수 개수와 N-2의 이친수 개수의  
  합과 같습니다. 이걸로 점화식을 만들어보면 d[N] = d[N-1] + d[N-2] 가 됩니다.  
   
-![IOPE](https://user-images.githubusercontent.com/59772554/75880406-8f2a3200-5e60-11ea-99d9-2b00ee38584b.PNG)  
+![IOPE](https://user-images.githubusercontent.com/59772554/75950361-4cae3700-5eec-11ea-8e01-9be797ab1ea4.PNG)  
+ 
 
 ### * 알고있어야 할 것  
 이친수란 0 으로 시작하지 않으며, 1이 두번 연속으로 나타나지 않는 수 입니다.  

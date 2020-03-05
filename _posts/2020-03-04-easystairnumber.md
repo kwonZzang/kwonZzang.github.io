@@ -28,7 +28,7 @@ last_modified_at: 2020-03-04T21:00:00-00:00
 수는 [마지막 수 + 1] or [마지막 수 - 1]가 되는 경우를 구하면 계단 수가 될 것 입니다.  
 이 방식을 이용해서 문제를 풀어보면 될 것 같습니다.  
   
-![IOPE](https://user-images.githubusercontent.com/59772554/75878782-75d3b680-5e5d-11ea-849b-69240969c039.PNG)  
+![IOPE](https://user-images.githubusercontent.com/59772554/75950334-2f796880-5eec-11ea-9989-f873f13964c2.PNG)   
 
 ### * 알고있어야 할 것  
 계단 수란 연달아 오는 숫자가 1 차이나는 수 입니다.  
